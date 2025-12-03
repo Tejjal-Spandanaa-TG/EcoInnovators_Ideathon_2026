@@ -1,0 +1,16 @@
+name: solar-detector
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - ultralytics
+    - shapely
+    - pandas
+    - opencv-python-headless
+    - requests
+    - openpyxl
+    - fpdf
+    - matplotlib
+    - numpy
