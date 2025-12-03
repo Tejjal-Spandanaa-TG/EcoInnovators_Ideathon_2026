@@ -1,0 +1,52 @@
+[
+    {
+        "sample_id": 1001.0,
+        "lat": 28.5272,
+        "lon": 77.2167,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0,
+        "buffer_radius_sqft": 2400,
+        "qc_status": "NOT_VERIFIABLE"
+    },
+    {
+        "sample_id": 1002.0,
+        "lat": 19.0445,
+        "lon": 72.8895,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0,
+        "buffer_radius_sqft": 2400,
+        "qc_status": "NOT_VERIFIABLE"
+    },
+    {
+        "sample_id": 1003.0,
+        "lat": 12.9784,
+        "lon": 77.6408,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0,
+        "buffer_radius_sqft": 2400,
+        "qc_status": "NOT_VERIFIABLE"
+    },
+    {
+        "sample_id": 1004.0,
+        "lat": 13.0827,
+        "lon": 80.2707,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0,
+        "buffer_radius_sqft": 2400,
+        "qc_status": "NOT_VERIFIABLE"
+    },
+    {
+        "sample_id": 1005.0,
+        "lat": 23.0225,
+        "lon": 72.5714,
+        "has_solar": false,
+        "confidence": 0.0,
+        "pv_area_sqm_est": 0,
+        "buffer_radius_sqft": 2400,
+        "qc_status": "NOT_VERIFIABLE"
+    }
+]
