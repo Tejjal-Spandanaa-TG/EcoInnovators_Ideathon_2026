@@ -83,4 +83,5 @@ This application is containerized for easy submission and testing.
 * **Geospatial Logic:** Shapely & OpenCV
 * **Data Sources:** Roboflow Public Datasets
 ````
-""
+##  License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
