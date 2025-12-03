@@ -85,4 +85,4 @@ This application is containerized for easy submission and testing.
 * **Data Sources:** Roboflow Public Datasets
 ````
 ##  License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the AGPL-3.0 License, as required by the Ultralytics YOLOv8 framework.
