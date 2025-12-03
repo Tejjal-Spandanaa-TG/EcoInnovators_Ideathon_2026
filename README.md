@@ -9,11 +9,12 @@ The system uses a **YOLOv8-Medium** model for detection and implements a precise
 ---
 
 ##   IMPORTANT: Large File Downloads
-Due to GitHub's file size limits, the full trained model weights and comprehensive project datasets are hosted externally. Please access them here:
+Note 1 : Due to GitHub's file size limits, the full trained model weights and comprehensive project datasets are hosted externally. Please access them here:
 
 *  Full Project Drive (Datasets & Logs): [Click Here to Access Google Drive](https://drive.google.com/drive/folders/1tF_6N7mysWNyQUnvSvSagke8fzV1Ox0N?usp=drive_link)
 *  Trained Model File (`solar_model.pt`): [Click Here to Download Model](https://drive.google.com/drive/folders/1yyUTGWSUplc2gUg1uDnsV5SWqgsEDoaj?usp=drive_link)
 
+Note 2 : The model file is split into three parts due to GitHub limits. To use it, download solar_model.pt.part1, solar_model.pt.part2, and solar_model.pt.part3. Then run: cat solar_model.pt.part* > solar_model.pt (Mac/Linux) or use 7-Zip to combine them (Windows).
 ---
 
 ##  Key Features
